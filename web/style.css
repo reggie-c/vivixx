@@ -1,0 +1,30 @@
+h1{
+  color:#0000ff;
+  font-size: 50px;
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+
+.text1 {
+  font-size: 30px;
+  line-height: 30px;
+  margin: 0;
+}
+.taaa1 {
+  font-size: 20px;
+  line-height: 30px;
+  margin: 0;
+}
+
+.car {
+  width: 400px;
+  height: auto;
+}
+img{
+  width: 250px;
+}

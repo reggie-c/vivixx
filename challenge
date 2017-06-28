@@ -1,0 +1,4 @@
+names ='Alice, John, Lucy'.split(',')
+# => ['Alice', 'John', 'Lucy',]
+puts name.join('_')
+#"{Alice, John, Lucy,}"

@@ -1,0 +1,20 @@
+h1{
+  color: green;
+  text-align: center;
+  padding: 100px;
+  font-size: 80px;
+}
+  h2{
+    font-size: 30px;
+    color: green;
+    text-align: center;
+}
+p{
+  color: black;
+  text-align: center;
+
+}
+body{
+  background: url('https://www.w3.org/WAI/gettingstarted/tips/images/example_media_player.png');
+  background-size: cover
+}
